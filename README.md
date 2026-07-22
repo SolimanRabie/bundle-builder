@@ -182,5 +182,6 @@ The review panel moves below the builder on smaller screens while preserving all
 ## 👨‍💻 Author
 
 - Soliman Rabie
+- www.linkedin.com/in/soliman-rabie-017b401b8
 
 Developed as part of a Frontend Take-Home Assignment using modern React best practices with a focus on scalability, maintainability, and clean architecture.
