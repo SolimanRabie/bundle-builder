@@ -1,0 +1,237 @@
+{
+  "steps": [
+    {
+      "id": "cameras",
+      "stepNumber": 1,
+      "title": "Choose your cameras",
+      "icon": "camera",
+      "products": [
+        {
+          "id": "cam-v4",
+          "name": "Wyze Cam v4",
+          "category": "Cameras",
+          "description": "The clearest Wyze Cam ever made.",
+          "image": "https://placehold.co/240x180/ffffff/17172b?text=Wyze+Cam+v4",
+          "learnMoreUrl": "#",
+          "badge": "Save 22%",
+          "compareAtPrice": 35.99,
+          "price": 27.99,
+          "variants": [
+            { "id": "white", "label": "White", "swatch": "#f4f5f7" },
+            { "id": "gray", "label": "Gray", "swatch": "#9a9fa8" },
+            { "id": "black", "label": "Black", "swatch": "#20242b" }
+          ],
+          "seedQuantities": { "white": 1, "gray": 0, "black": 0 }
+        },
+        {
+          "id": "cam-pan-v3",
+          "name": "Wyze Cam Pan v3",
+          "category": "Cameras",
+          "description": "360\u00b0 pan-and-tilt HD security camera.",
+          "image": "https://placehold.co/240x180/ffffff/17172b?text=Wyze+Cam+Pan+v3",
+          "learnMoreUrl": "#",
+          "badge": "Save 15%",
+          "compareAtPrice": 37.99,
+          "price": 32.29,
+          "variants": [
+            { "id": "white", "label": "White", "swatch": "#f4f5f7" },
+            { "id": "black", "label": "Black", "swatch": "#20242b" }
+          ],
+          "seedQuantities": { "white": 2, "black": 0 }
+        },
+        {
+          "id": "cam-floodlight-v2",
+          "name": "Wyze Cam Floodlight v2",
+          "category": "Cameras",
+          "description": "2K floodlight camera with a 160\u00b0 wide-angle view for your garage.",
+          "image": "https://placehold.co/240x180/ffffff/17172b?text=Floodlight+v2",
+          "learnMoreUrl": "#",
+          "badge": "Save 40%",
+          "compareAtPrice": 84.99,
+          "price": 49.99,
+          "variants": [
+            { "id": "white", "label": "White", "swatch": "#f4f5f7" },
+            { "id": "black", "label": "Black", "swatch": "#20242b" }
+          ],
+          "seedQuantities": { "white": 0, "black": 0 }
+        },
+        {
+          "id": "cam-video-doorbell",
+          "name": "Wyze Cam Video Doorbell",
+          "category": "Cameras",
+          "description": "Two cameras. Two views. Double the porch protection.",
+          "image": "https://placehold.co/240x180/ffffff/17172b?text=Video+Doorbell",
+          "learnMoreUrl": "#",
+          "badge": null,
+          "compareAtPrice": null,
+          "price": 49.99,
+          "variants": null,
+          "seedQuantities": { "default": 0 }
+        },
+        {
+          "id": "cam-battery-pro",
+          "name": "Wyze Battery Cam Pro",
+          "category": "Cameras",
+          "description": "Protect anywhere. See everything in 2.5K HDR, no power outlet or wired hub needed.",
+          "image": "https://placehold.co/240x180/ffffff/17172b?text=Battery+Cam+Pro",
+          "learnMoreUrl": "#",
+          "badge": null,
+          "compareAtPrice": null,
+          "price": 38.99,
+          "variants": [
+            { "id": "white", "label": "White", "swatch": "#f4f5f7" },
+            { "id": "black", "label": "Black", "swatch": "#20242b" }
+          ],
+          "seedQuantities": { "white": 0, "black": 0 }
+        }
+      ]
+    },
+    {
+      "id": "plan",
+      "stepNumber": 2,
+      "title": "Choose your plan",
+      "icon": "plan",
+      "products": [
+        {
+          "id": "plan-care",
+          "name": "Cam Plan",
+          "category": "Plan",
+          "description": "14-day rolling event video history for one camera.",
+          "image": "https://placehold.co/240x180/ffffff/17172b?text=Cam+Plan",
+          "learnMoreUrl": "#",
+          "badge": null,
+          "compareAtPrice": null,
+          "price": 2.99,
+          "priceSuffix": "/mo",
+          "variants": null,
+          "maxQuantity": 1,
+          "seedQuantities": { "default": 0 }
+        },
+        {
+          "id": "plan-care-unlimited",
+          "name": "Care Unlimited",
+          "category": "Plan",
+          "description": "Unlimited cloud storage and 24/7 recording for every camera on your account.",
+          "image": "https://placehold.co/240x180/ffffff/17172b?text=Care+Unlimited",
+          "learnMoreUrl": "#",
+          "badge": "Most popular",
+          "compareAtPrice": 12.99,
+          "price": 9.99,
+          "priceSuffix": "/mo",
+          "variants": null,
+          "maxQuantity": 1,
+          "seedQuantities": { "default": 1 }
+        }
+      ]
+    },
+    {
+      "id": "sensors",
+      "stepNumber": 3,
+      "title": "Choose your sensors",
+      "icon": "sensor",
+      "products": [
+        {
+          "id": "sense-motion",
+          "name": "Wyze Sense Motion Sensor",
+          "category": "Sensors",
+          "description": "Detects movement in a room and ignores pets under 40lbs.",
+          "image": "https://placehold.co/240x180/ffffff/17172b?text=Motion+Sensor",
+          "learnMoreUrl": "#",
+          "badge": null,
+          "compareAtPrice": null,
+          "price": 15.99,
+          "variants": null,
+          "seedQuantities": { "default": 2 }
+        },
+        {
+          "id": "sense-hub",
+          "name": "Wyze Sense Hub (Required)",
+          "category": "Sensors",
+          "description": "Connects all of your Sense sensors to the app. One hub per home.",
+          "image": "https://placehold.co/240x180/ffffff/17172b?text=Sense+Hub",
+          "learnMoreUrl": "#",
+          "badge": null,
+          "compareAtPrice": 39.99,
+          "price": 0,
+          "variants": null,
+          "minQuantity": 1,
+          "maxQuantity": 1,
+          "seedQuantities": { "default": 1 }
+        },
+        {
+          "id": "sense-door-window",
+          "name": "Wyze Sense Door/Window Sensor",
+          "category": "Sensors",
+          "description": "Get an alert the instant a door or window opens.",
+          "image": "https://placehold.co/240x180/ffffff/17172b?text=Door%2FWindow",
+          "learnMoreUrl": "#",
+          "badge": "Save 20%",
+          "compareAtPrice": 12.99,
+          "price": 9.99,
+          "variants": null,
+          "seedQuantities": { "default": 0 }
+        },
+        {
+          "id": "sense-flood",
+          "name": "Wyze Sense Flood Sensor",
+          "category": "Sensors",
+          "description": "Warns you about leaks and freezing pipes before damage happens.",
+          "image": "https://placehold.co/240x180/ffffff/17172b?text=Flood+Sensor",
+          "learnMoreUrl": "#",
+          "badge": null,
+          "compareAtPrice": null,
+          "price": 17.99,
+          "variants": null,
+          "seedQuantities": { "default": 0 }
+        }
+      ]
+    },
+    {
+      "id": "protection",
+      "stepNumber": 4,
+      "title": "Add extra protection",
+      "icon": "shield",
+      "products": [
+        {
+          "id": "acc-microsd",
+          "name": "Wyze MicroSD Card (128GB)",
+          "category": "Accessories",
+          "description": "Local storage backup for continuous recording on your camera.",
+          "image": "https://placehold.co/240x180/ffffff/17172b?text=MicroSD+128GB",
+          "learnMoreUrl": "#",
+          "badge": "Save 34%",
+          "compareAtPrice": 21.99,
+          "price": 14.49,
+          "variants": null,
+          "seedQuantities": { "default": 1 }
+        },
+        {
+          "id": "acc-keypad",
+          "name": "Wyze Keypad",
+          "category": "Accessories",
+          "description": "Arm and disarm your system without reaching for your phone.",
+          "image": "https://placehold.co/240x180/ffffff/17172b?text=Keypad",
+          "learnMoreUrl": "#",
+          "badge": null,
+          "compareAtPrice": null,
+          "price": 39.99,
+          "variants": null,
+          "seedQuantities": { "default": 0 }
+        },
+        {
+          "id": "acc-siren",
+          "name": "Wyze Siren",
+          "category": "Accessories",
+          "description": "A 105dB siren that's heard blocks away.",
+          "image": "https://placehold.co/240x180/ffffff/17172b?text=Siren",
+          "learnMoreUrl": "#",
+          "badge": "Save 25%",
+          "compareAtPrice": 59.99,
+          "price": 44.99,
+          "variants": null,
+          "seedQuantities": { "default": 0 }
+        }
+      ]
+    }
+  ]
+}
